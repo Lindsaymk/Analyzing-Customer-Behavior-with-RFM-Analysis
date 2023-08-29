@@ -53,7 +53,7 @@ This data analysis project focuses on conducting RFM (Recency, Frequency, Moneta
 ## Repository Structure
 
 - `data/`: Directory containing the dataset used for analysis.
-- `analysis.ipynb` (or `analysis.py`): Jupyter Notebook or Python script file with the complete data analysis code.
+- `analysis.ipynb`: Jupyter Notebook file with the complete data analysis code.
 - `results/`: Directory for storing analysis output and visualizations.
 - `README.rmd`: This file providing project information.
 
